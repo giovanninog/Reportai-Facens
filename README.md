@@ -48,10 +48,11 @@ https://reportai-facens.vercel.app/
 ## Pré-requisitos ⚠️    
 
 ![ANDROID](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+ ![IOS](https://img.shields.io/badge/IOS-ffffff?style=for-the-badge&logo=apple&logoColor=black)
+ ![MACOS](https://img.shields.io/badge/Mac%20OS-ffffff?style=for-the-badge&logo=apple&logoColor=black)
  ![WINDOWS](https://img.shields.io/badge/WINDOWS-03a9fc?style=for-the-badge&logo=windows&logoColor=white)
- ![LINUX](https://img.shields.io/badge/LINUX-050505?style=for-the-badge&logo=linux&logoColor=white)
- ![GOOGLE](https://img.shields.io/badge/Google%20Chrome-ed1607?style=for-the-badge&logo=Google&logoColor=black)
- ![EDGE](https://img.shields.io/badge/Edge%20Browser-079ded?style=for-the-badge&logo=Microsoft&logoColor=white)
+ ![LINUX](https://img.shields.io/badge/LINUX-ffffff?style=for-the-badge&logo=linux&logoColor=black)
+ ![WEB_BROWSER](https://img.shields.io/badge/Browser-079ded?style=for-the-badge&logo=web&logoColor=white)
 
 Versão do Android;
 - Android 7.0 Nougat ou superior.
@@ -63,7 +64,11 @@ Aparelho utilizado para testes.
 - Desktop:
   
   Dell Inc. XPS 8930
-  
+
+  Laptops:
+
+  ...
+
 - Sistema Operacional: Windows, Linux, MacOS, IOS, Android.
 - Navegador Chrome, Edge ou outros.
 - Conexão à internet velocidade de 5Mbps ou superior
