@@ -46,7 +46,7 @@
             <v-btn size="x-large" color="rgb(16, 32, 61)">Início</v-btn>
           </v-col>
           <v-col cols="4" class="mt-4">
-            <v-btn size="x-large" color="rgb(16, 32, 61)">Reportar</v-btn>
+            <v-btn size="x-large" color="rgb(242, 7, 27)">Reportar</v-btn>
           </v-col>
           <v-col cols="3" class="mt-4">
             <v-btn size="x-large" color="rgb(16, 32, 61)">Sugestão</v-btn>
